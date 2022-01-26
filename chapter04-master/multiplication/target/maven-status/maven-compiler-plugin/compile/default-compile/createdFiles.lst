@@ -1,0 +1,12 @@
+microservices/book/multiplication/challenge/ChallengeService.class
+microservices/book/multiplication/challenge/ChallengeServiceImpl.class
+microservices/book/multiplication/challenge/ChallengeAttempt.class
+microservices/book/multiplication/challenge/ChallengeController.class
+microservices/book/multiplication/challenge/ChallengeAttemptDTO.class
+microservices/book/multiplication/challenge/ChallengeGeneratorServiceImpl.class
+microservices/book/multiplication/MultiplicationApplication.class
+microservices/book/multiplication/user/User.class
+microservices/book/multiplication/challenge/ChallengeGeneratorService.class
+microservices/book/multiplication/configuration/WebConfiguration.class
+microservices/book/multiplication/challenge/Challenge.class
+microservices/book/multiplication/challenge/ChallengeAttemptController.class

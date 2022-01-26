@@ -1,0 +1,23 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-MultiplicationApplication<multiplication>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "microservices.book.multiplication.MultiplicationApplication",
+            "projectName": "multiplication",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Spring Boot-MultiplicationApplication",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "microservices.book.multiplication.MultiplicationApplication",
+            "args": ""
+        }
+    ]
+}

@@ -1,0 +1,12 @@
+/workspace/learn-microservices-spring-boot-2e/chapter04-master/multiplication/src/main/java/microservices/book/multiplication/challenge/ChallengeAttempt.java
+/workspace/learn-microservices-spring-boot-2e/chapter04-master/multiplication/src/main/java/microservices/book/multiplication/challenge/ChallengeAttemptDTO.java
+/workspace/learn-microservices-spring-boot-2e/chapter04-master/multiplication/src/main/java/microservices/book/multiplication/challenge/ChallengeController.java
+/workspace/learn-microservices-spring-boot-2e/chapter04-master/multiplication/src/main/java/microservices/book/multiplication/configuration/WebConfiguration.java
+/workspace/learn-microservices-spring-boot-2e/chapter04-master/multiplication/src/main/java/microservices/book/multiplication/challenge/ChallengeServiceImpl.java
+/workspace/learn-microservices-spring-boot-2e/chapter04-master/multiplication/src/main/java/microservices/book/multiplication/challenge/Challenge.java
+/workspace/learn-microservices-spring-boot-2e/chapter04-master/multiplication/src/main/java/microservices/book/multiplication/user/User.java
+/workspace/learn-microservices-spring-boot-2e/chapter04-master/multiplication/src/main/java/microservices/book/multiplication/MultiplicationApplication.java
+/workspace/learn-microservices-spring-boot-2e/chapter04-master/multiplication/src/main/java/microservices/book/multiplication/challenge/ChallengeService.java
+/workspace/learn-microservices-spring-boot-2e/chapter04-master/multiplication/src/main/java/microservices/book/multiplication/challenge/ChallengeAttemptController.java
+/workspace/learn-microservices-spring-boot-2e/chapter04-master/multiplication/src/main/java/microservices/book/multiplication/challenge/ChallengeGeneratorService.java
+/workspace/learn-microservices-spring-boot-2e/chapter04-master/multiplication/src/main/java/microservices/book/multiplication/challenge/ChallengeGeneratorServiceImpl.java

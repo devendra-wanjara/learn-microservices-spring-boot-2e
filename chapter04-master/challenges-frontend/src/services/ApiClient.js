@@ -5,7 +5,7 @@ class ApiClient {
     static POST_RESULT = '/attempts';
 
     static challenge(): Promise<Response> {
-        return fetch(ApiClient.SERVER_URL + ApiClient.GET_CHALLENGE);
+        return fetch(ApiClient.SERVER_URL + ApiClient.GET_CHALLENGE,{credentials: "include"});
     }
 
     static sendGuess(user: string,
